@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Line / Arrows &amp; Navigational / Chevron - Right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.6103951,14.9797875 L2.33396688,0.390081267 C1.79986904,-0.130027089 0.935010109,-0.130027089 0.399556694,0.390081267 C-0.133185565,0.910189623 -0.133185565,1.76370077 0.399556694,2.28380913 L15.6945463,15.9933319 L0.399556694,29.7161909 C-0.133185565,30.2362992 -0.133185565,31.0764743 0.399556694,31.6099187 C0.935010109,32.1300271 1.79986904,32.1300271 2.33396688,31.6099187 L18.6103951,17.0202125 C18.8950666,16.7401542 19.0170686,16.3667431 18.9980905,15.9933319 C19.0170686,15.6332569 18.8950666,15.2598458 18.6103951,14.9797875" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-Line-/-Arrows-&amp;-Navigational-/-Chevron---Right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-Tint-/-Blue" transform="translate(7.000000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#AAAAAA" xlink:href="#path-1"></use>
+            <g id="Colours-/-Greyscale-Palette-/-Black-80" mask="url(#mask-2)" fill="#333333">
+                <g transform="translate(-7.000000, 0.000000)" id="Rectangle-4-Copy-3">
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Line / Multimedia / Play 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,32 C7.16344357,32 0,24.8365564 0,16 C0,7.16344357 7.16344357,0 16,0 C24.8365564,0 32,7.16344357 32,16 C32,24.8365564 24.8365564,32 16,32 Z M16,30 C23.7319869,30 30,23.7319869 30,16 C30,8.26801307 23.7319869,2 16,2 C8.26801307,2 2,8.26801307 2,16 C2,23.7319869 8.26801307,30 16,30 Z M21.5992107,15.2697073 C22.1260721,15.6225786 22.1410681,16.3338192 21.5992107,16.7176792 L12.1966851,22.8434447 C11.6853197,23.1793222 11,23.0048858 11,22.0252431 L11,9.96214333 C11,8.97550322 11.6388319,8.84005263 12.1966851,9.14344197 L21.5992107,15.2697073 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-Line-/-Multimedia-/-Play-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-Tint-/-Blue">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Twitter" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Colours-/-Greyscale-Palette-/-Black-80" mask="url(#mask-2)" fill="#FFFFFF">
+                <rect id="Rectangle-4-Copy-3" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
