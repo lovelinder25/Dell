@@ -366,7 +366,7 @@ li.header__nav--search button {
     font-size: 18px;
     color: rgb(0, 0, 0);
     font-family: HelveticaNeueW01-75Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
-    white-space: pre-wrap;
+    /* white-space: pre-wrap; */
     text-align: left;
     line-height: 1em;
     margin-bottom: 0.7em
